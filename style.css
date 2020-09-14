@@ -1,0 +1,39 @@
+.carousel-caption {
+  bottom: 90px; }
+
+.carousel {
+  margin: 0 auto;
+}
+
+.carousel-caption h5 {
+      font-size: 12px;
+      font-weight: bold; 
+    }
+.carousel-caption p {
+      font-size: 10px; 
+}
+
+body {
+  background-color: #f2ffff;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  
+
+  .carousel-caption {
+    bottom: 90px;
+   }
+    .carousel-caption h5 {
+      font-size: 14px;
+      font-weight: bold; 
+    }
+    .carousel-caption p {
+      font-size: 12px; 
+    }
+
+  .carousel-title {
+    font-size: 18px;
+    margin-top: 20px; 
+  } 
+
+  }
